@@ -1,0 +1,16 @@
+[Desktop Entry]
+Comment=A minimal theme.
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Minimal
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Raul Sousa
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=cosmic-echo@outlook.com
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=Minimal
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/cosmic-echo/
+X-Plasma-MainScript=defaults
